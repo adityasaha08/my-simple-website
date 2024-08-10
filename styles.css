@@ -1,0 +1,17 @@
+*{
+    /* margin: 0px; */
+
+}
+p,h3{
+    background-color:rgb(27, 171, 220);
+    border: 3px solid rgb(224, 94, 185);
+    margin: 5px;
+    /* max-width: 200px; */
+    /* max-height: 100px; */
+}
+/* h3{
+    border-bottom: 0px;
+}
+p{
+    border-top: 0px;
+} */
